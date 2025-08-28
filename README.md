@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://gnaneswardamarasingu.netlify.app/)
+[![MasterHead](https://github.com/Gnaneswar22/gnaneswar22/blob/5f58678b15d68055595e2d697155406b31675c2c/github-header-banner%20(1).png)](https://gnaneswardamarasingu.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Gnaneswar Damarasingu</h1>
 <h3 align="center">A passionate frontend developer and AI-ML Engineer from India</h3>
